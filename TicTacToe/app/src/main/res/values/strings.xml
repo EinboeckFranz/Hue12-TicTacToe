@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="currentPlayerText">Player:</string>
+    <string name="freeSpacesTextView">_</string>
+</resources>
